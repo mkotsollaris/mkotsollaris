@@ -1,3 +1,10 @@
+Hi! I am Menelaos!
+
+[![Github](https://img.shields.io/github/followers/mkotsollaris?label=Follow&style=social)](https://github.com/mkotsollaris)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/mkotsollaris.svg?style=social&label=Follow%20%40mkotsollaris)](https://twitter.com/mkotsollaris)
+
+I ❤ Open Source
+
 <a href="https://github.com/mkotsollaris/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mkotsollaris&title_color=ffffff&text_color=ffffff&icon_color=ec5990&bg_color=081229&show_icons=true" />
 </a>
