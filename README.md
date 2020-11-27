@@ -5,10 +5,10 @@ Hi! I am Menelaos!
 
 I ❤ Open Source
 
-<a href="https://github.com/mkotsollaris/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=mkotsollaris&title_color=ffffff&text_color=ffffff&icon_color=ec5990&bg_color=081229&show_icons=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mkotsollaris&title_color=ffffff&text_color=ffffff&icon_color=ec5990&bg_color=081229&show_icons=true" />
 </a>
-<a href="https://github.com/mkotsollaris/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mkotsollaris&title_color=ffffff&text_color=ffffff&icon_color=bf1650&bg_color=081229">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkotsollaris&title_color=ffffff&text_color=ffffff&icon_color=bf1650&bg_color=081229" />
 </a>
 
